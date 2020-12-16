@@ -1,0 +1,5 @@
+Architect;1;first name;surname;email;address;telephone
+Contractor;2;first name;surname;address;adress;number
+Customer;3;first name;surnmae;email;address;telephone
+Customer;4;Mark;Betley;dfvjabdfksdfb;dsfbsdfbsdb;0453213120
+Architect;5;mark;paul;mark@paul.com;sdfbgsdfbdsfb;0213510

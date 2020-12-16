@@ -1,0 +1,14 @@
+Invoice Number : 1
+
+Customer Details 
+
+
+Personel Type: Customer
+Personel ID: 4
+First Name: Mark
+Surname: Betley
+Email: dfvjabdfksdfb
+Physical Address: dsfbsdfbsdb
+Telephone: 0453213120
+
+Amount to Pay : R100000.0

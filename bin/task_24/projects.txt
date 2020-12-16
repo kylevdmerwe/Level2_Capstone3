@@ -1,0 +1,4 @@
+0;Project Name;BUlding type;project address;ERF Number;100000.0;0.0;2020;0;1;2;3;Active
+1;Project 4;BUlding type;project address;ERF Number;100000.0;0.0;2020;2020;1;2;3;Active
+2;Project 3;BUlding type;project address;ERF Number;100000.0;0.0;2020;2020;1;2;4;finalised
+3;Project 4;BUlding type;project address;ERF Number;100000.0;0.0;2019;0;1;2;3;Active
